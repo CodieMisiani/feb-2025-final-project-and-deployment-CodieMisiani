@@ -36,6 +36,10 @@ The website is responsive, meaning it adjusts to different screen sizes (mobile,
 - **Navigation**: A simple navigation bar for easy access to each page of the site.
 - **Multi-page Layout**: The site consists of multiple pages that can be accessed from the navigation menu.
 
+##Deployment 
+
+-The site is live at https://codiemisiani.github.io/feb-2025-final-project-and-deployment-CodieMisiani/
+
 ## Installation
 
 If you'd like to run this project locally:
